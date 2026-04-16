@@ -30,6 +30,15 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 - `01-Fundamentals/` - Basic C++ syntax and logic.
 - `02-Patterns/` - Star and number pattern problems.
 - `03-Arrays/` - Array operations and homework tasks.
+- `04-Arrays/` - Array problems and Bit Masking logic.
+
+---
+
+## 📈 Problem Solving Log
+
+| Date | Topic | Problem Name | Difficulty | Solution |
+| :--- | :--- | :--- | :--- | :--- |
+| 16-04-2026 | Bit/Arrays | Sum of All Subset XOR Totals | Easy | [View Code](./04-Arrays/Sum_of_All_Subset_XOR_Totals.cpp) |
 
 ---
 
