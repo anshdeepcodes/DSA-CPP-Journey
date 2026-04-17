@@ -37,7 +37,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 ## 📈 Problem Solving Log
 
 | Date | Topic | Problem Name | Platform | Difficulty | Solution |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | 16-04-2026 | Bit/Arrays | Sum of All Subset XOR Totals | LeetCode | Easy | [View Code](./04-Arrays/Sum_of_All_Subset_XOR_Totals.cpp) |
 | 17-04-2026 | Arrays | Largest Element | TUF+ | Easy | [View Code](./04-Arrays/Largest_Element.cpp) |
 
