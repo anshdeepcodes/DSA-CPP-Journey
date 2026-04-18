@@ -7,6 +7,10 @@ Time Complexity: O(N)
 Space Complexity: O(1)
 */
 
+#include <iostream>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     int largestElement(vector<int>& nums) {
@@ -26,3 +30,11 @@ public:
         return maxElement;
     }
 };
+
+int main(){
+    Solution sol;
+    vector<int> vec = {85, 5, 1, 10, 34, 57};
+    int result = sol.largestElement(vec);
+    cout << "The Largest Element of array is " << result << endl;
+    return 0;
+}
