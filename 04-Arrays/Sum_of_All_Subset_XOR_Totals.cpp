@@ -6,6 +6,10 @@ Time Complexity: O(n * 2^n)
 Space Complexity: O(1)
 */
 
+#include <iostream>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     int subsetXORSum(vector<int>& nums) {
@@ -30,3 +34,12 @@ public:
         return totalSum;
     }
 };
+
+// ---------------- Driver Code ----------------
+int main(){
+    Solution sol;
+    vector<int> vec = {85, 5, 1, 10, 34, 57};
+    int sum = sol.subsetXORSum(vec);
+    cout << "The total sum of XOR of subsets of an array is " << sum << endl;
+    return 0;
+}
