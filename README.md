@@ -43,6 +43,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 18-04-2026 | Arrays | Second Largest Element | TUF+ | Easy | [View Code](./04-Arrays/2ndLargest.cpp) |
 | 19-04-2026 | Arrays | Sorted and Rotated Array | LeetCode | Easy | [View Code](./04-Arrays/IsSorted.cpp) |
 | 20-04-2026 | Arrays | Remove Duplicates from Sorted Array | LeetCode | Easy | [View Code](./04-Arrays/RemoveDuplicatesFromSortedArray.cpp) |
+| 21-04-2026 | Arrays | Left Rotate by One | TUF+ | Easy | [View Code](./04-Arrays/Left_Rotate_One.cpp) |
 
 ---
 
