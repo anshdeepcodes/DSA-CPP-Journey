@@ -45,7 +45,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 20-04-2026 | Arrays | Remove Duplicates from Sorted Array | LeetCode | Easy | [View Code](./04-Arrays/RemoveDuplicatesFromSortedArray.cpp) |
 | 21-04-2026 | Arrays | Left Rotate by One | TUF+ | Easy | [View Code](./04-Arrays/Left_Rotate_One.cpp) |
 | 22-04-2026 | Arrays | Rotate Array (Master) | TUF+ / LC | Easy | [View Code](./04-Arrays/Rotate_Array.cpp) |
-| 23-04-2026 | Arrays | Move Zeroes | LeetCode | Easy | [View Code](./04-Arrays/Move_Zeros.cpp) |
+| 23-04-2026 | Arrays | Move Zeroes | LeetCode | Easy | [View Code](./04-Arrays/Moves_Zeros.cpp) |
 
 ---
 
