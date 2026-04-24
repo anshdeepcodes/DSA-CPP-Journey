@@ -46,6 +46,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 21-04-2026 | Arrays | Left Rotate by One | TUF+ | Easy | [View Code](./04-Arrays/Left_Rotate_One.cpp) |
 | 22-04-2026 | Arrays | Rotate Array (Master) | TUF+ / LC | Easy | [View Code](./04-Arrays/Rotate_Array.cpp) |
 | 23-04-2026 | Arrays | Move Zeroes | LeetCode | Easy | [View Code](./04-Arrays/Moves_Zeros.cpp) |
+| 24-04-2026 | Arrays | Linear Search | TUF+ | Easy | [View Code](./04-Arrays/LinearSearch.cpp) |
 
 ---
 
