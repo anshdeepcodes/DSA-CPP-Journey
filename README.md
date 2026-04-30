@@ -52,6 +52,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 27-04-2026 | Arrays | Max Consecutive Ones | TUF+ | Easy | [View Code](./04-Arrays/maxConsecutive1s.cpp) |
 | 28-04-2026 | Arrays | Single Number | TUF+ / LC | Medium | [View Code](./04-Arrays/singleNumber.cpp) |
 | 29-04-2026 | Arrays | Longest Subarray with Sum K (Positive) | TUF+ | Medium | [View Code](./04-Arrays/longest_subarray_sum_k_positive.cpp) |
+| 30-04-2026 | Basic Math | Count Digits | GFG | Basic | [View Code](./Basics_GFG/count_digit.cpp) |
 
 ---
 
