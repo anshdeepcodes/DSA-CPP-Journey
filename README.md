@@ -53,6 +53,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 28-04-2026 | Arrays | Single Number | TUF+ / LC | Medium | [View Code](./04-Arrays/singleNumber.cpp) |
 | 29-04-2026 | Arrays | Longest Subarray with Sum K (Positive) | TUF+ | Medium | [View Code](./04-Arrays/longest_subarray_sum_k_positive.cpp) |
 | 30-04-2026 | Basic Math | Count Digits | GFG | Basic | [View Code](./Basics_GFG/count_digit.cpp) |
+| 30-04-2026 | Arrays | Find Min and Max in Array | GFG | Basic | [View Code](./Basics_GFG/Min_Max_Array.cpp) |
 
 ---
 
