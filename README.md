@@ -55,6 +55,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 30-04-2026 | Basic Math | Count Digits | GFG | Basic | [View Code](./Basics_GFG/count_digit.cpp) |
 | 01-05-2026 | Arrays | Find Min and Max in Array | GFG | Basic | [View Code](./Basics_GFG/Min_Max_Array.cpp) |
 | 02-05-2026 | Sliding Window | Subarray with Given Sum | GFG | Medium | [View Code](./Basics_GFG/subArraySumGiven.cpp) |
+| 03-05-2026 | Arrays | Kadane's Algorithm | GFG | Medium | [View Code](./Basics_GFG/maxSubArraySum.cpp) |
 
 ---
 
