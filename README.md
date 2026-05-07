@@ -59,6 +59,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 04-05-2026 | Bit Manipulation | Missing Number | GFG | Easy | [View Code](./Basics_GFG/missingElement.cpp) |
 | 05-05-2026 | Arrays | Array Leaders | GFG | Easy | [View Code](./Basics_GFG/arrayLeader.cpp) |
 | 06-05-2026 | Sorting | Sort 0s, 1s and 2s | GFG | Medium | [View Code](./Basics_GFG/sort012.cpp) |
+| 07-05-2026 | Arrays | Second Largest | GFG | Easy | [View Code](./Basics_GFG/2ndLargest.cpp) |
 
 ---
 
