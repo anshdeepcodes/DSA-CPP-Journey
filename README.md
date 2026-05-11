@@ -62,7 +62,8 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 07-05-2026 | Arrays | Second Largest | GFG | Easy | [View Code](./Basics_GFG/2ndLargest.cpp) |
 | 08-05-2026 | Arrays | Majority Element | GFG | Medium | [View Code](./Basics_GFG/MajorityElement_MooreVoting.cpp) |
 | 09-05-2026 | Binary Search | First Occurrence | GFG | Medium | [View Code](./Basics_GFG/firstOccuranceInSorted.cpp) |
-| 10-05-2026 | Bit Manipulation | XOR Neighbor Update | GFG | Medium | [View Code](./Basics_GFG/xor_array.cpp) |
+| 10-05-2026 | Bit Manipulation | XOR Neighbor Update | GFG | Easy | [View Code](./Basics_GFG/xor_array.cpp) |
+| 11-05-2026 | Arrays | Product Neighbor Update | GFG | Easy | [View Code](./Basics_GFG/AdjacentProduct.cpp) |
 
 ---
 
