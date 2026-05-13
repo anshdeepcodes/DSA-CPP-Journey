@@ -20,7 +20,7 @@ class Solution {
         vector<int> result(n);
 
         for (int i = 0; i < n; i++) {
-            // Logic: result[i] = arr[i-1] * arr[i+1]
+            // Logic: result[i] = arr[i-1] * arr[i] * arr[i+1]
             // Boundary checks as per GFG:
             int prev = (i > 0) ? arr[i - 1] : 1;
             int curr = arr[i];
