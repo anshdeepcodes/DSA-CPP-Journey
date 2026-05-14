@@ -65,6 +65,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 10-05-2026 | Bit Manipulation | XOR Neighbor Update | GFG | Easy | [View Code](./Basics_GFG/xor_array.cpp) |
 | 11-05-2026 | Arrays | Product Neighbor Update | GFG | Easy | [View Code](./Basics_GFG/AdjacentProduct.cpp) |
 | 12-05-2026 | Arrays | Format the Array | GFG | Easy | [View Code](./Basics_GFG/playWithArray.cpp) |
+| 14-05-2026 | Arrays | Alternates in Array | GFG | Easy | [View Code](./Basics_GFG/returnAlternate.cpp) |
 
 ---
 
