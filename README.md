@@ -67,6 +67,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 12-05-2026 | Arrays | Format the Array | GFG | Easy | [View Code](./Basics_GFG/playWithArray.cpp) |
 | 14-05-2026 | Arrays | Alternates in Array | GFG | Easy | [View Code](./Basics_GFG/returnAlternate.cpp) |
 | 15-05-2026 | Binary Search | Transition Point | GFG | Easy | [View Code](./Basics_GFG/transitionPoint.cpp) |
+| 16-05-2026 | Arrays | Prefix Sum Array | GFG | Easy | [View Code](./Basics_GFG/1dPrefixSum.cpp) |
 
 ---
 
