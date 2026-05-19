@@ -70,6 +70,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 16-05-2026 | Arrays | Prefix Sum Array | GFG | Easy | [View Code](./Basics_GFG/1dPrefixSum.cpp) |
 | 17-05-2026 | Arrays | Swap Elements | GFG | Easy | [View Code](./Basics_GFG/swapArrayElement.cpp) |
 | 18-05-2026 | Greedy / Sorting | Permutations in Array | GFG | Easy | [View Code](./Basics_GFG/permutation_two_arrays.cpp) |
+| 19-05-2026 | Two Pointer | Array Palindrome | GFG | Easy | [View Code](./Basics_GFG/palindromeArray.cpp) |
 
 ---
 
