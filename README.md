@@ -74,6 +74,7 @@ Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
 | 20-05-2026 | Arrays | Product of Array Except Self | GFG | Easy | [View Code](./Basics_GFG/ProductArrayPuzzle.cpp) |
 | 21-05-2026 | Basics / Strings | Array and String Form | GFG | Easy | [View Code](./Basics_GFG/choice.cpp) |
 | 22-05-2026 | Arrays | Move all negative elements to end | GFG | Easy | [View Code](./Basics_GFG/moveNegativeToEnd.cpp) |
+| 23-05-2026 | Arrays | Modify and Rearrange Array | GFG | Easy | [View Code](./Basics_GFG/modifyTheArray.cpp) |
 
 ---
 
