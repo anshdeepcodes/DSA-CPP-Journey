@@ -1,14 +1,26 @@
 # DSA Daily Practice (C++) 🚀
 
 ## 🧑‍💻 About Me
-I am a 2nd year B.Tech CSE student building a strong foundation in Data Structures and Algorithms (DSA). This repository tracks my daily progress and logic-building journey.
+I am a 2nd year B.Tech CSE student building a strong foundation in Data Structures and Algorithms (DSA). This repository tracks my daily progress, logic-building journey, and structured topic-wise solutions.
 
 ---
 
 ## 🎯 The Goal
 - **Consistency > Perfection**: Push code every day.
 - Build a deep understanding of core fundamentals.
-- Maintain a clean and organized codebase.
+- Maintain a clean, industry-standard organized codebase.
+
+---
+
+## 📁 Repository Modules & Directory
+Click any module to view its specific problem log and solutions:
+
+* 📂 **[Striver A2Z Sheet](./Striver_A2Z_Sheet/README.md)** - Standard interview problems from Striver's sheet (Easy & Medium).
+* 📂 **[Apna College DSA](./Apna_College_DSA/README.md)** - 🎯 Lecture codes, conceptual topics, and homework tasks from Shradha Didi's course.
+* 📂 **[Basics & GFG Library](./Basics_GFG/README.md)** - Supplementary practice problems from GeeksforGeeks to build daily consistency.
+* 📂 **[Fundamentals](./01-Fundamentals/)** - Basic C++ syntax, variables, conditionals, and loops.
+* 📂 **[Patterns](./02-Patterns/)** - Star and number pattern logics.
+* 📂 **[Number System](./03-Number-System/)** - Binary, Decimal, and core bitwise operation problems.
 
 ---
 
@@ -17,65 +29,11 @@ I am a 2nd year B.Tech CSE student building a strong foundation in Data Structur
 ### ✅ Completed / Ongoing
 - [x] C++ Basics (Variables, Loops, Conditionals)
 - [x] Patterns (Logic Building)
-- [x] Number System
-- [x] Bitwise Operators
+- [x] Number System & Bitwise Operators
 - [ ] Arrays (Currently Practicing 📍)
 
 ### 🚀 Future Topics
-Strings, Stack, Queue, Linked List, Recursion, Trees, and more.
-
----
-
-## 📁 Folder Structure
-- `01-Fundamentals/` - Basic C++ syntax and logic.
-- `02-Patterns/` - Star and number pattern problems.
-- `03-Arrays/` - Array operations and homework tasks.
-- `04-Arrays/` - Array problems and Bit Masking logic.
-
----
-
-## 📈 Problem Solving Log
-
-| Date | Topic | Problem Name | Platform | Difficulty | Solution |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 16-04-2026 | Bit/Arrays | Sum of All Subset XOR Totals | LeetCode | Easy | [View Code](./04-Arrays/Sum_of_All_Subset_XOR_Totals.cpp) |
-| 17-04-2026 | Arrays | Largest Element | TUF+ | Easy | [View Code](./04-Arrays/Largest_Element.cpp) |
-| 18-04-2026 | Arrays | Second Largest Element | TUF+ | Easy | [View Code](./04-Arrays/2ndLargest.cpp) |
-| 19-04-2026 | Arrays | Sorted and Rotated Array | LeetCode | Easy | [View Code](./04-Arrays/IsSorted.cpp) |
-| 20-04-2026 | Arrays | Remove Duplicates from Sorted Array | LeetCode | Easy | [View Code](./04-Arrays/RemoveDuplicatesFromSortedArray.cpp) |
-| 21-04-2026 | Arrays | Left Rotate by One | TUF+ | Easy | [View Code](./04-Arrays/Left_Rotate_One.cpp) |
-| 22-04-2026 | Arrays | Rotate Array (Master) | TUF+ / LC | Easy | [View Code](./04-Arrays/Rotate_Array.cpp) |
-| 23-04-2026 | Arrays | Move Zeroes | LeetCode | Easy | [View Code](./04-Arrays/Moves_Zeros.cpp) |
-| 24-04-2026 | Arrays | Linear Search | TUF+ | Easy | [View Code](./04-Arrays/LinearSearch.cpp) |
-| 25-04-2026 | Arrays | Union of Sorted Arrays | TUF+ | Easy | [View Code](./04-Arrays/Union.cpp) |
-| 26-04-2026 | Arrays | Missing Number | TUF+ | Easy | [View Code](./04-Arrays/FindMissingNum.cpp) |
-| 27-04-2026 | Arrays | Max Consecutive Ones | TUF+ | Easy | [View Code](./04-Arrays/maxConsecutive1s.cpp) |
-| 28-04-2026 | Arrays | Single Number | TUF+ / LC | Medium | [View Code](./04-Arrays/singleNumber.cpp) |
-| 29-04-2026 | Arrays | Longest Subarray with Sum K (Positive) | TUF+ | Medium | [View Code](./04-Arrays/longest_subarray_sum_k_positive.cpp) |
-| 30-04-2026 | Basic Math | Count Digits | GFG | Basic | [View Code](./Basics_GFG/count_digit.cpp) |
-| 01-05-2026 | Arrays | Find Min and Max in Array | GFG | Basic | [View Code](./Basics_GFG/Min_Max_Array.cpp) |
-| 02-05-2026 | Sliding Window | Subarray with Given Sum | GFG | Medium | [View Code](./Basics_GFG/subArraySumGiven.cpp) |
-| 03-05-2026 | Arrays | Kadane's Algorithm | GFG | Medium | [View Code](./Basics_GFG/maxSubArraySum.cpp) |
-| 04-05-2026 | Bit Manipulation | Missing Number | GFG | Easy | [View Code](./Basics_GFG/missingElement.cpp) |
-| 05-05-2026 | Arrays | Array Leaders | GFG | Easy | [View Code](./Basics_GFG/arrayLeader.cpp) |
-| 06-05-2026 | Sorting | Sort 0s, 1s and 2s | GFG | Medium | [View Code](./Basics_GFG/sort012.cpp) |
-| 07-05-2026 | Arrays | Second Largest | GFG | Easy | [View Code](./Basics_GFG/2ndLargest.cpp) |
-| 08-05-2026 | Arrays | Majority Element | GFG | Medium | [View Code](./Basics_GFG/MajorityElement_MooreVoting.cpp) |
-| 09-05-2026 | Binary Search | First Occurrence | GFG | Medium | [View Code](./Basics_GFG/firstOccuranceInSorted.cpp) |
-| 10-05-2026 | Bit Manipulation | XOR Neighbor Update | GFG | Easy | [View Code](./Basics_GFG/xor_array.cpp) |
-| 11-05-2026 | Arrays | Product Neighbor Update | GFG | Easy | [View Code](./Basics_GFG/AdjacentProduct.cpp) |
-| 12-05-2026 | Arrays | Format the Array | GFG | Easy | [View Code](./Basics_GFG/playWithArray.cpp) |
-| 14-05-2026 | Arrays | Alternates in Array | GFG | Easy | [View Code](./Basics_GFG/returnAlternate.cpp) |
-| 15-05-2026 | Binary Search | Transition Point | GFG | Easy | [View Code](./Basics_GFG/transitionPoint.cpp) |
-| 16-05-2026 | Arrays | Prefix Sum Array | GFG | Easy | [View Code](./Basics_GFG/1dPrefixSum.cpp) |
-| 17-05-2026 | Arrays | Swap Elements | GFG | Easy | [View Code](./Basics_GFG/swapArrayElement.cpp) |
-| 18-05-2026 | Greedy / Sorting | Permutations in Array | GFG | Easy | [View Code](./Basics_GFG/permutation_two_arrays.cpp) |
-| 19-05-2026 | Two Pointer | Array Palindrome | GFG | Easy | [View Code](./Basics_GFG/palindromeArray.cpp) |
-| 20-05-2026 | Arrays | Product of Array Except Self | GFG | Easy | [View Code](./Basics_GFG/ProductArrayPuzzle.cpp) |
-| 21-05-2026 | Basics / Strings | Array and String Form | GFG | Easy | [View Code](./Basics_GFG/choice.cpp) |
-| 22-05-2026 | Arrays | Move all negative elements to end | GFG | Easy | [View Code](./Basics_GFG/moveNegativeToEnd.cpp) |
-| 23-05-2026 | Arrays | Modify and Rearrange Array | GFG | Easy | [View Code](./Basics_GFG/modifyTheArray.cpp) |
-| 24-05-2026 | Arrays | Smallest and Second Smallest | GFG | Easy | [View Code](./Basics_GFG/1st2ndSmallest.cpp) |
+Strings, Recursion, Sorting, Linked List, Stack, Queue, Trees, Graphs, and Dynamic Programming.
 
 ---
 
