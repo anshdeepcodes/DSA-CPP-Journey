@@ -23,8 +23,8 @@ This folder contains my solutions to standard interview problems from Striver's 
 | 27-04-2026 | Arrays | Max Consecutive Ones | TUF+ | Easy | [View Code](./Easy/maxConsecutive1s.cpp) |
 
 #### 🟡 Medium Level (Currently Practicing 📍)
-| Date | Topic | Problem Name | Platform | Solution |
-| :--- | :--- | :--- | :--- | :--- |
+| Date | Topic | Problem Name | Platform | Difficulty | Solution |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | 28-04-2026 | Arrays | Single Number | TUF+ / LC | Medium | [View Code](./Medium/singleNumber.cpp) |
 | 29-04-2026 | Arrays | Longest Subarray with Sum K (Positive) | TUF+ | Medium | [View Code](./Medium/longest_subarray_sum_k_positive.cpp) |
 
