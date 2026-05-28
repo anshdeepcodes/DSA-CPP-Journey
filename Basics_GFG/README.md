@@ -30,3 +30,4 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 22-05-2026 | Arrays | Move all negative elements to end | Easy | [View Code](./moveNegativeToEnd.cpp) |
 | 23-05-2026 | Arrays | Modify and Rearrange Array | Easy | [View Code](./modifyTheArray.cpp) |
 | 24-05-2026 | Arrays | Smallest and Second Smallest | Easy | [View Code](./1st2ndSmallest.cpp) |
+| 28-05-2026 | Binary Search | First and Last Occurrences | Medium | [View Code](./firstAndLastOccurrence.cpp) |
