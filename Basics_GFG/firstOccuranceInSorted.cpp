@@ -1,6 +1,6 @@
 /* 
 Problem: First Occurrence in Sorted Array
-Link: https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
+Link: https://www.geeksforgeeks.org/problems/binary-search-1587115620/1
 Approach: Modified Binary Search
 Time Complexity: O(log N)
 Space Complexity: O(1) 
