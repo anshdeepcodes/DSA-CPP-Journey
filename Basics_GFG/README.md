@@ -33,3 +33,4 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 28-05-2026 | Binary Search | First and Last Occurrences | Medium | [View Code](./firstAndLastOccurrence.cpp) |
 | 29-05-2026 | Binary Search | Count the Zeros | Easy | [View Code](./countTheZeros.cpp) |
 | 31-05-2026 | Arrays | Reverse an Array | Easy | [View Code](./reverseArray.cpp) |
+| 02-06-2026 | Arrays | Rearrange Array Elements | Easy | [View Code](./rearrangeEvenOdd.cpp) |
