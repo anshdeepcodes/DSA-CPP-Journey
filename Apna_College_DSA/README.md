@@ -14,3 +14,4 @@ This folder tracks all the high-quality conceptual problems, class examples, and
 | 30-05-2026 | Binary Search | Search in Rotated Sorted Array | Modified Binary Search in O(log N) by identifying the sorted half and checking target boundaries. | [View Code](./searchInRotatedSortedArray.cpp) |
 | 01-06-2026 | Binary Search | Peak Index in a Mountain Array | Used Binary Search to identify increasing/decreasing slopes and find the peak element safely. | [View Code](./peakIndexInMountainArray.cpp) |
 | 03-06-2026 | Binary Search | Single Element in a Sorted Array | Used Binary Search and index pairing properties to find the unique element in O(log N) time. | [View Code](./singleElementInSortedArray.cpp) |
+| 04-06-2026 | Binary Search | Book Allocation Problem(Hard) | Applied Binary Search on the answer space to find the minimum feasible maximum pages any student. | [View Code](./bookAllocation.cpp) |
