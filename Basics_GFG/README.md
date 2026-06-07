@@ -34,3 +34,4 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 29-05-2026 | Binary Search | Count the Zeros | Easy | [View Code](./countTheZeros.cpp) |
 | 31-05-2026 | Arrays | Reverse an Array | Easy | [View Code](./reverseArray.cpp) |
 | 02-06-2026 | Arrays | Rearrange Array Elements | Easy | [View Code](./rearrangeEvenOdd.cpp) |
+| 07-06-2026 | Arrays | Find All Duplicates in Array | Easy | [View Code](./findAllDuplicates.cpp) |
