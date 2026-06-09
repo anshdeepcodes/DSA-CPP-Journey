@@ -17,3 +17,4 @@ This folder tracks all the high-quality conceptual problems, class examples, and
 | 04-06-2026 | Binary Search | Book Allocation Problem(Hard) | Applied Binary Search on the answer space to find the minimum feasible maximum pages any student. | [View Code](./bookAllocation.cpp) |
 | 05-06-2026 | Binary Search | Painter's Partition Problem(Hard) | Used Binary Search on the answer space to minimize the maximum painting time among painters. | [View Code](./paintersPartition.cpp) |
 | 06-06-2026 | Binary Search | Aggressive Cows(Hard) | Applied Binary Search on the answer space and greedy placement to maximize the minimum distance between cows. | [View Code](./aggressiveCows.cpp) |
+| 09-06-2026 | Arrays | Sort Colors (Dutch National Flag) | Used three pointers (st, mid, end) to partition the array and sort 0s, 1s, and 2s in-place in a single pass. | [View Code](./sortColors.cpp) |
