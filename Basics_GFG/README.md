@@ -36,3 +36,4 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 02-06-2026 | Arrays | Rearrange Array Elements | Easy | [View Code](./rearrangeEvenOdd.cpp) |
 | 07-06-2026 | Arrays | Find All Duplicates in Array | Easy | [View Code](./findAllDuplicates.cpp) |
 | 08-06-2026 | Arrays | Find Missing and Repeating Element | Easy | [View Code](./findMissingAndRepeating.cpp) |
+| 11-06-2026 | Arrays | Numbers Containing 1, 2, 3 | Easy | [View Code](./filterNumbersByDigits.cpp) |
