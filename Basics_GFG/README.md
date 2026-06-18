@@ -40,4 +40,5 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 13-06-2026 | Bit Manipulation | Two Non-Repeating Elements | Medium | [View Code](./twoUniqueElements.cpp) |
 | 14-06-2026 | Arrays | Array Insert At End | Basic | [View Code](./insertAtEnd.cpp) |
 | 15-06-2026 | Arrays | Frequencies of Limited Range Elements | Easy | [View Code](./frequencyCountInPlace.cpp) |
-| 17-06-2026 | Arrays | Check if Array is Sorted | Easy |  [View Code](./checkSortedArray.cpp) |
+| 17-06-2026 | Arrays | Check if Array is Sorted | Easy | [View Code](./checkSortedArray.cpp) |
+| 18-06-2026 | Arrays | Count Digit K in Array | Easy [View Code](./countDigitK.cpp) |
