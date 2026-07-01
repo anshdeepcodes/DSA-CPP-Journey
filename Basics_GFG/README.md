@@ -44,3 +44,4 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 18-06-2026 | Arrays | Count Digit K in Array | Easy | [View Code](./countDigitK.cpp) |
 | 19-06-2026 | Arrays/Hashing | Check Duplicates | Easy | [View Code](./checkDuplicates.cpp) |
 | 20-06-2026 | Arrays/Heaps | Top K Frequent Elements | Medium | [View Code](./topKFrequentElements.cpp) |
+| 01-07-2026 | Arrays/Hashing | Intersection of Two Arrays (Unique) | Easy | [View Code](./arrayIntersectionUnique.cpp) |
