@@ -39,7 +39,7 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 11-06-2026 | Arrays | Numbers Containing 1, 2, 3 | Easy | [View Code](./filterNumbersByDigits.cpp) |
 | 13-06-2026 | Bit Manipulation | Two Non-Repeating Elements | Medium | [View Code](./twoUniqueElements.cpp) |
 | 14-06-2026 | Arrays | Array Insert At End | Basic | [View Code](./insertAtEnd.cpp) |
-| 15-06-2026 | Arrays | Frequencies of Limited Range Elements | Easy | [View Code](./frequencyCountInPlace.cpp) |
+| 15-06-2026 | Arrays | Frequencies of Limited Range Elements | Easy | [View Code](./frequencyCountModulo.cpp) |
 | 17-06-2026 | Arrays | Check if Array is Sorted | Easy | [View Code](./checkSortedArray.cpp) |
 | 18-06-2026 | Arrays | Count Digit K in Array | Easy | [View Code](./countDigitK.cpp) |
 | 19-06-2026 | Arrays/Hashing | Check Duplicates | Easy | [View Code](./checkDuplicates.cpp) |
