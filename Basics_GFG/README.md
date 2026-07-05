@@ -48,3 +48,4 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 02-07-2026 | Heaps/Design | Find Median from Data Stream | Medium | [View Code](./runningMedianTwoHeaps.cpp) |
 | 03-07-2026 | Arrays/Hashing | Subarray Sum Equals K | Medium | [View Code](./subarraySumEqualsK.cpp) |
 | 04-07-2026 | Strings/Hashing | Print Anagrams Together | Medium | [View Code](./printAnagramsTogether.cpp) |
+| 05-07-2026 | Arrays/Hashing | First Element to Occur K Times | Easy | [View Code](./firstElementKTimes.cpp) |
