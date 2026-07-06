@@ -49,3 +49,4 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 03-07-2026 | Arrays/Hashing | Subarray Sum Equals K | Medium | [View Code](./subarraySumEqualsK.cpp) |
 | 04-07-2026 | Strings/Hashing | Print Anagrams Together | Medium | [View Code](./printAnagramsTogether.cpp) |
 | 05-07-2026 | Arrays/Hashing | First Element to Occur K Times | Easy | [View Code](./firstElementKTimes.cpp) |
+| 06-07-2026 | Arrays/Two-Pointer | Longest Even Odd Subarray | Easy | [View Code](./longestAlternatingSubarray.cpp) |
