@@ -51,3 +51,4 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 05-07-2026 | Arrays/Hashing | First Element to Occur K Times | Easy | [View Code](./firstElementKTimes.cpp) |
 | 06-07-2026 | Arrays/Two-Pointer | Longest Even Odd Subarray | Easy | [View Code](./longestAlternatingSubarray.cpp) |
 | 07-07-2026 | Stack (Monotonic Stack) | Next Smaller Element | Medium | [View Code](./nextSmallerElement.cpp) |
+| 08-07-2026 | Arrays/Two Pointers | Squares of a Sorted Array | Easy | [View Code](./sortedSquares.cpp) |
