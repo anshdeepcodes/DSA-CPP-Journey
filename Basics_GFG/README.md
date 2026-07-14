@@ -53,3 +53,4 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 07-07-2026 | Stack (Monotonic Stack) | Next Smaller Element | Medium | [View Code](./nextSmallerElement.cpp) |
 | 08-07-2026 | Arrays/Two Pointers | Squares of a Sorted Array | Easy | [View Code](./sortedSquares.cpp) |
 | 10-07-2026 | Binary Search | Find Smallest Letter Greater Than Target | Easy | [View Code](./nextGreatestLetter.cpp) |
+| 14-07-2026 | Strings/Two Pointers | Valid Palindrome | Easy | [View Code](./validPalindrome.cpp) |
