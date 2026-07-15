@@ -20,3 +20,4 @@ This folder tracks all the high-quality conceptual problems, class examples, and
 | 09-06-2026 | Arrays | Sort Colors (Dutch National Flag) | Used three pointers (st, mid, end) to partition the array and sort 0s, 1s, and 2s in-place in a single pass. | [View Code](./sortColors.cpp) |
 | 10-06-2026 | Arrays | Merge Sorted Array | Used three pointers from the end of both arrays to merge elements in-place without overwriting existing values. | [View Code](./mergeSortedArray.cpp) |
 | 10-06-2026 | Arrays | Next Permutation | Found the pivot where descending order breaks, swapped it with the next greater element on the right, and reversed the suffix to generate the next permutation. | [View Code](./nextPermutation.cpp) |
+| 15-07-2026 | Strings/Stack | Remove All Occurrences of a Substring | Used std::string as a stack to build the result and remove matching suffixes during traversal. | [View Code](./removeOccurrences.cpp) |
