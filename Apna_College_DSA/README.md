@@ -23,3 +23,4 @@ This folder tracks all the high-quality conceptual problems, class examples, and
 | 15-07-2026 | Strings/Stack | Remove All Occurrences of a Substring | Used std::string as a stack to build the result and remove matching suffixes during traversal. | [View Code](./removeOccurrences.cpp) |
 | 19-07-2026 | Sliding Window (Brute Force) | Permutation in String | Checked every possible window by building its frequency array and comparing it with the pattern frequency. | [View Code](./permutationInString.cpp) |
 | 22-07-2026 | Strings | Reverse Words in a String | Reversed the entire string first, then reversed each word individually to construct the final sentence while skipping extra spaces. | [View Code](./reverseWordsInString.cpp) |
+| 23-07-2026 | Strings/Two Pointers | String Compression | Compressed consecutive characters using two pointers. | [View Code](./stringCompression.cpp) |
