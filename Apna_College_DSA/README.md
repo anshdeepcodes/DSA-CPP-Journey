@@ -24,3 +24,4 @@ This folder tracks all the high-quality conceptual problems, class examples, and
 | 19-07-2026 | Sliding Window (Brute Force) | Permutation in String | Checked every possible window by building its frequency array and comparing it with the pattern frequency. | [View Code](./permutationInString.cpp) |
 | 22-07-2026 | Strings | Reverse Words in a String | Reversed the entire string first, then reversed each word individually to construct the final sentence while skipping extra spaces. | [View Code](./reverseWordsInString.cpp) |
 | 23-07-2026 | Strings/Two Pointers | String Compression | Compressed consecutive characters using two pointers. | [View Code](./stringCompression.cpp) |
+| 24-07-2026 | Math/Sieve of Eratosthenes | Count Primes | Counted prime numbers using the Sieve of Eratosthenes. | [View Code](./countPrimes.cpp) |
