@@ -54,3 +54,4 @@ This folder houses supplementary practice problems from GeeksforGeeks used to bu
 | 08-07-2026 | Arrays/Two Pointers | Squares of a Sorted Array | Easy | [View Code](./sortedSquares.cpp) |
 | 10-07-2026 | Binary Search | Find Smallest Letter Greater Than Target | Easy | [View Code](./nextGreatestLetter.cpp) |
 | 14-07-2026 | Strings/Two Pointers | Valid Palindrome | Easy | [View Code](./validPalindrome.cpp) |
+| 25-07-2026 | Math/Algorithms | Find Greatest Common Divisor of Array | Easy | [View Code](./findGCD.cpp) |
