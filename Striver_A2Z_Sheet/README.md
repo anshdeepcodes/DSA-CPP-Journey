@@ -27,5 +27,6 @@ This folder contains my solutions to standard interview problems from Striver's 
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 28-04-2026 | Arrays | Single Number | TUF+ / LC | Medium | [View Code](./Medium/singleNumber.cpp) |
 | 29-04-2026 | Arrays | Longest Subarray with Sum K (Positive) | TUF+ | Medium | [View Code](./Medium/longest_subarray_sum_k_positive.cpp) |
+| 28-07-2026 | Arrays/Hashing | Longest Subarray with Sum K | TUF+ / GFG | Medium | [View Code](./Medium/maxSubKNeg.cpp) |
 
 ---
