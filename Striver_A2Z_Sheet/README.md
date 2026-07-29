@@ -21,6 +21,7 @@ This folder contains my solutions to standard interview problems from Striver's 
 | 25-04-2026 | Arrays | Union of Sorted Arrays | TUF+ | Easy | [View Code](./Easy/Union.cpp) |
 | 26-04-2026 | Arrays | Missing Number | TUF+ | Easy | [View Code](./Easy/FindMissingNum.cpp) |
 | 27-04-2026 | Arrays | Max Consecutive Ones | TUF+ | Easy | [View Code](./Easy/maxConsecutive1s.cpp) |
+| 29-07-2026 | Arrays/Hashing | Two Sum | TUF+ | Easy | [View Code](./Easy/two_sum.cpp) |
 
 #### 🟡 Medium Level (Currently Practicing 📍)
 | Date | Topic | Problem Name | Platform | Difficulty | Solution |
